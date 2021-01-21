@@ -4,12 +4,7 @@
 # A Solution
 This solution is taken from [Guess what is it? :)](https://stackoverflow.com/a/38255116)
 
-The equation n can be written using this expression 1 + 2 + 3 +....+ i + r, where i < r
+The equation n can be written using this expression: 1 + 2 + 3 +....+ i + r, where i < r
 n = 1 + 2 + 3 +....+ i + r
 
 n = i \times (i+1) / 2 + r
-
-
-\begin{equation} \label{eq:stokes}
-    \int_{\partial\Omega} \omega = \int_{\Omega} \mathrm{d}\omega \,.
-\end{equation}
