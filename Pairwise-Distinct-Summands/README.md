@@ -8,3 +8,5 @@ The equation n can be written using this expression 1 + 2 + 3 +....+ i + r, wher
 n = 1 + 2 + 3 +....+ i + r
 
 n = i \times (i+1) / 2 + r
+
+Euler's formula is remarkable: $e^{i\pi} + 1 = 0$.
