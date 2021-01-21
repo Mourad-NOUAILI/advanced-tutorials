@@ -3,3 +3,5 @@
 
 # A Solution
 This solution is taken from [Guess what is it? :)](https://stackoverflow.com/a/38255116)
+
+The equation $1 + 2 + 3 +....+ i + r = n$
