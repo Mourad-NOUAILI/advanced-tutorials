@@ -4,7 +4,7 @@
 # A Solution
 This solution is taken from [Guess what is it? :)](https://stackoverflow.com/a/38255116)
 
-The equation n can be written using this expression: ![alt]https://github.com/Mourad-NOUAILI/advanced-tutorials/blob/master/Pairwise-Distinct-Summands/Screenshot%20from%202021-01-21%2021-01-01.png, where i < r
+The equation n can be written using this expression: ![alt](https://github.com/Mourad-NOUAILI/advanced-tutorials/blob/master/Pairwise-Distinct-Summands/Screenshot%20from%202021-01-21%2021-01-01.png), where i < r
 n = 1 + 2 + 3 +....+ i + r
 
 n = i \times (i+1) / 2 + r
