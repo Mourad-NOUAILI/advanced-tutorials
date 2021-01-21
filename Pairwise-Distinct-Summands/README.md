@@ -9,4 +9,7 @@ n = 1 + 2 + 3 +....+ i + r
 
 n = i \times (i+1) / 2 + r
 
-Euler's formula is remarkable: $e^{i\pi} + 1 = 0$.
+
+\begin{equation} \label{eq:stokes}
+    \int_{\partial\Omega} \omega = \int_{\Omega} \mathrm{d}\omega \,.
+\end{equation}
